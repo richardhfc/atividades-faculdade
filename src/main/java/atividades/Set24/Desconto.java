@@ -1,4 +1,4 @@
-package atividades.richard_henrique;
+package atividades.Set24;
 import java.util.Scanner;
 
 public class Desconto {
